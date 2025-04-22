@@ -1,2 +1,2 @@
 # react-project
-this is react project for learn Git &amp; Github
+this is react project for learn Git & Github.
